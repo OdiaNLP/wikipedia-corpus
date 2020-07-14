@@ -2,8 +2,10 @@
 Different types of Odia language data with their sources
 
 #### Running command
+Go inside the data folder and run the following command:
+```
  python ../scripts/wikipedia/wikipedia_article_extractor.py 
-
+```
 
 # Acknowledgements
 - [Gaurav Arora](https://github.com/goru001/nlp-for-odia) for Wikipedia scraping algorithm
